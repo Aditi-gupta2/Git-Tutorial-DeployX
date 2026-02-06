@@ -1,2 +1,3 @@
 owner_name="Aditi Gupta"
-event="DeplyX"
+event="DeployX"
+Trainer="Govind Gupta"
